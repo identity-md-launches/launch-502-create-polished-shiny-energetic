@@ -1,0 +1,163 @@
+Skip to content
+
+YOUR WORKSPACE
+
+Markets
+My dashboard
+Docs
+Create a market
+
+SUPPORTED NETWORKS
+
+Ethereum
+Robinhood
+Same pond. Your next take.
+
+Clear questions.
+A little skin in the game.
+
+Learn the house rules
+PEPE2PEPE / IMD
+Workspace
+/
+Market details
+Connect wallet
+Markets
+/
+Crypto
+/
+#12
+Watch
+Share
+Crypto
+Open
+Robinhood
+Fixed odds · FIFO
+Will $Quotrons (ERC20) be above 6M market cap on the 7th of Oct. 00.01AM UTC ?
+Started by 0x0a5b…ba24
+Bet before 2026-10-03T22:00:00.000Z
+YES
+40%
+NO
+60%
+Display odds as
+Percentage
+
+Offered odds describe the fixed price, not a guarantee of probability. Winning returns include the stake and exclude fees.
+
+IMD AI Oracle
+
+Ask from 2026-10-07T01:01:00.000Z
+
+Market
+Activity
+Rules
+Oracle
+Two sides of the bet.
+
+Watch both sides fill. Only matched money competes. Totals below include all wallets.
+
+Already in the bet
+
+Unused backing stays separate.
+
+0 IMD
+YES
+40%
+fixed odds
+33.333
+IMD
+room for new bets
+0
+IMD
+matched & in the bet
+
+0 IMD deposited on YES · all wallets
+
+Dotted space is capacity, not money deposited.
+
+NO
+60%
+fixed odds
+50
+IMD
+deposited, still waiting
+0
+IMD
+matched & in the bet
+
+50 IMD deposited on NO · all wallets
+
+Waiting funds can still match until STOP.
+
+Both meters: 0% matched. Heights show funding, not the chance of winning.
+
+Matched funds
+Deposited, waiting
+Room for new bets
+View the NO funding queue
+1 / 50 deposits
+Backing NO joins the queue. Betting YES matches available backing.
+How it works
+Market timeline
+Trading opened
+2026-09-29T09:12:58.000Z
+Fund either available side
+STOP trading
+2026-10-03T22:00:00.000Z
+Unused refunds unlock
+Ask Oracle at or after
+2026-10-07T01:01:00.000Z
+Only when at least one bet matched
+
+Open. Times in UTC. Final claims are independent of queue order.
+
+YOUR TAKE
+Make your move.
+Back NO
+60%
+Take YES
+40%
+Matches now
+
+Matches NO backing. Your accepted return stays fixed.
+
+Available to bet YES
+33.333 IMD
+Your YES stake (IMD)
+i
+IMD
+Minimum 1.22 IMD
+Match remaining capacity
+Your potential return
+—
+Enter a stake to see the amounts.
+Matched funds stay locked.
+
+Even the platform operator cannot VOID a matched market before Ask Oracle.
+
+Refund timing and operator recovery
+
+Connect and sign in to check your wallet’s funding.
+
+Connect / sign in
+Accept YES bet
+How refunds and winnings work
+Your backing deposits
+
+Only this wallet’s deposits. The funding meters show all wallets. Unused refunds unlock after STOP; matched winnings or VOID refunds unlock after settlement.
+
+Connect your wallet to see your deposits.
+
+Confirmed funding only. Pending transactions appear in your activity.
+Understand the queue
+pepe2pepe.fun
+
+Open markets for a more interesting internet.
+
+Docs
+Agents
+Submit a token
+IMD ↗
+PEPE2PEPE / POWERED BY THE IMD AGENT SWARM.
+Robinhood Chain · IdentityMD · Public creation · Real assets and gas

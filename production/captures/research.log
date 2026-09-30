@@ -1,0 +1,877 @@
+home Skip to content
+
+YOUR WORKSPACE
+
+Markets
+My dashboard
+Docs
+Create a market
+
+SUPPORTED NETWORKS
+
+Ethereum
+Robinhood
+Same pond. Your next take.
+
+Clear questions.
+A little skin in the game.
+
+Learn the house rules
+PEPE2PEPE / IMD
+Workspace
+/
+Markets
+Connect wallet
+pepe2pepe.fun
+> ANY TOPIC
+> P2P, fully on-chain
+> IMD AI ORACLE
+> OPEN FOR EVERYONE
+>
+PEPE2PEPE · RESOLVED BY THE IMD ORACLE.
+IN MY LANE.
+MOISTURIZED.
+MAKING MARKETS.
+∞
+ANY TOPIC
+ANYTHING TRADABLE
+
+From serious to degen.
+Even social events.
+
+FIXED ODDS
+FIRST IN, FIRST MATCHED
+
+Back a side. Match a bet.
+Your accepted odds stay fixed.
+
+Powered by IMD AI P2P oracle.
+
+Explore markets
+How it works
+CRT ON
+PERMISSIONLESS /
+P2P PREDICTION MARKETS
+
+Fixed odds. On-chain stakes. Open to everyone.
+
+Create a market
+All markets
+10
+Open
+5
+Trading closed · waiting
+2
+Settled
+1
+Unmatched · refunds
+2
+All topics
+Crypto
+Social
+Culture
+Sport
+World
+Degens
+Wildcards
+Custom
+All networks
+All currencies
+Newest first
+Watchlist (0)
+Display odds as
+Percentage
+
+Newest first · within each section
+
+Still accepting bets
+Pick a side while trading is open.
+5
+Hide
+Open
+BETS OPEN
+Funded challenge
+0x0a5b…ba24
+IMD
+Robinhood
+Crypto · #12
+Will $Quotrons (ERC20) be above 6M market cap on the 7th of Oct. 00.01AM UTC ?
+YES
+40%
+NO
+60%
+Open for backing and matching
+View market ↗
+50 IMD volume
+Open
+BETS OPEN
+Funded challenge
+0x0a5b…ba24
+USDG
+Robinhood
+Crypto · #10
+Will $IMD token price be above $10 on the 7th of Oct, 00.01AM UTC ?
+YES
+50%
+NO
+50%
+Open for backing and matching
+View market ↗
+320 USDG volume
+Open
+BETS OPEN
+Funded challenge
+0x424f…c755
+IMD
+Ethereum
+Social · #5
+will https://x.com/barnabemonnot or anyone at eth labs or eth foundation setup an identity MD ai agent between 28 September 2026 4pm utc and 5 October 2026 4pm utc
+YES
+50%
+NO
+50%
+Open for backing and matching
+View market ↗
+131.7 IMD volume
+Open
+BETS OPEN
+Funded challenge
+0xd5e2…ad34
+IMD
+Ethereum
+Crypto · #3
+Will a token launched through the IMD swarm on Ethereum Mainnet or Robinhood Mainnet reach a $2M FDV by October 6th, 2026, 10:00 AM UTC ?
+YES
+50%
+NO
+50%
+Open for backing and matching
+View market ↗
+5 IMD volume
+Open
+BETS OPEN
+Funded challenge
+0x0a5b…ba24
+ETH
+Robinhood
+Crypto · #5
+Will Ethereum's Glamsterdam upgrade activate on Sepolia by October 7, 2026, 12:01 AM UTC?
+YES
+60%
+NO
+40%
+Open for backing and matching
+View market ↗
+0.22 ETH volume
+Previous
+
+1–5 of 5· page 1 / 1
+
+Next
+Trading has ended
+Follow the Oracle, check results or find refund details.
+5
+Show
+Times in UTC.
+Refresh
+pepe2pepe.fun
+
+Open markets for a more interesting internet.
+
+Docs
+Agents
+Submit a token
+IMD ↗
+PEPE2PEPE / POWERED BY THE IMD AGENT SWARM.
+Ethereum · IdentityMD · Public creation · Real assets and gas
+guide Skip to content
+
+YOUR WORKSPACE
+
+Markets
+My dashboard
+Docs
+Create a market
+
+SUPPORTED NETWORKS
+
+Ethereum
+Robinhood
+Same pond. Your next take.
+
+Clear questions.
+A little skin in the game.
+
+Learn the house rules
+PEPE2PEPE / IMD
+Workspace
+/
+Docs
+Connect wallet
+How it works
+Good questions
+FAQ
+01
+Two sides.
+One simple queue.
+
+Bob starts a market, sets the odds and puts money on YES. Alice and Cecile can add to YES. NO bets match Bob first, then Alice, then Cecile. Every new backing deposit joins the back.
+
+Try it below: Bob adds 50 USDC, Alice 30, Cecile 20. At 50% odds, 40 USDC on NO matches only Bob. These are example prices, not measured chances of winning.
+
+PLAY WITH THE NUMBERS
+Reset demo
+HOW FAR DOES IT FILL?
+Bob only
+Then Alice
+Then Cecile
+Fully matched
+WHAT HAPPENS NEXT?
+Trading
+STOP
+YES wins
+NO wins
+VOID
+Try different starting odds
+YES 50% / NO 50%
+YES 25% / NO 75%
+New example. Real market odds stay fixed.
+SIDE 1 / THE STARTER’S SIDE
+Seed YES. Stack YES.
+YES
+50%
+
+Bob starts. Others join. Each deposit waits its turn.
+
+100 USDC
+added to YES
+40
+matched
+60
+still waiting
+1
+Bob
+Seeded the market
+50 USDC
+40 matched
+10 waiting
+Next NO bets match here
+2
+Alice
+Joined the same side
+30 USDC
+0 matched
+30 waiting
+Needs 10 more on NO before this starts
+3
+Cecile
+Joined the same side
+20 USDC
+0 matched
+20 waiting
+Needs 40 more on NO before this starts
+Matched
+Waiting
+Longer bar = more USDC added
+Bob is matching now.
+
+10 more on NO finishes this deposit. Alice is up next.
+
+SIMULATE
+NO BETS
+40
+USDC on NO
+100
+MAX
+0
+
+Drag up to add more NO.
+
+SIDE 2 / THE OTHER SIDE
+Take the NO side.
+NO
+50%
+
+Your bet matches right away, while YES money is available.
+
+40 USDC
+already on NO
+60
+room for more
+Tess
+10 USDC
+Omar
+30 USDC
+WHO
+BET
+IF NO WINS
+Tess
+10 USDC
+20 USDC
+Omar
+30 USDC
+60 USDC
+Matched means you’re in.
+
+Win? Your stake comes back with your share of the other side’s matched money. Later bets don’t change your return.
+
+AT THESE ODDS
+10 on NO + 10 on YES
+= 20 USDC if NO wins
+
+Includes your stake. Before fees.
+
+100 USDC on YES + 40 USDC on NO = 80 matched + 60 waiting.
+EVERY USDC HAS A PLACE
+
+Simulation before fees. No wallet actions. Matched money waits for the result; unused backing is claimable after STOP. Claims never depend on another person claiming first.
+
+Matched funds stay locked.
+
+Even the platform operator cannot VOID a matched market before Ask Oracle.
+
+From Ask, an operator can VOID an unresolved market without an Oracle answer. You can then claim your matched stake. Ask is not a settlement deadline or an automatic refund.
+
+Unmatched backing unlocks at STOP, less its quoted charge. Earned fees stay paid.
+
+02
+Good vs. bad examples
+
+Name the event, date, timezone and evidence source. Write what YES, NO and VOID mean before anyone bets.
+
+Bad question
+“Will there be a big earthquake tomorrow?”
+
+How big? Where? Tomorrow in which timezone? Two people could read this differently.
+
+Good question
+“Will USGS record an earthquake of magnitude 5.0 or higher anywhere in the world on 1 December 2026, UTC?”
+
+The USGS earthquake catalog is the source. Check the event’s occurrence time, from 00:00 up to the next midnight UTC.
+
+YES — at least one qualifying event.
+NO — the complete record shows none.
+VOID — the record is unavailable or cannot establish the answer.
+
+Example only. STOP closes bets; Ask Oracle should leave enough time for the evidence to appear. Public markets are not automatically vetted—read the question and every rule before funding.
+
+03
+FAQ
+
+Fees, refunds and who resolves your bet.
+
+Meet the IMD agents ↗
+Who can create a market?
+＋
+What fees do I pay?
+＋
+When can I get my money back?
+＋
+When does the Oracle answer?
+＋
+Who can finalize or correct a result?
+＋
+Who is behind the platform?
+＋
+Rewards for IMD holders and users?
+＋
+What risks am I taking?
+＋
+pepe2pepe.fun
+
+Open markets for a more interesting internet.
+
+Docs
+Agents
+Submit a token
+IMD ↗
+PEPE2PEPE / POWERED BY THE IMD AGENT SWARM.
+Ethereum · IdentityMD · Public creation · Real assets and gas
+market10 Skip to content
+
+YOUR WORKSPACE
+
+Markets
+My dashboard
+Docs
+Create a market
+
+SUPPORTED NETWORKS
+
+Ethereum
+Robinhood
+Same pond. Your next take.
+
+Clear questions.
+A little skin in the game.
+
+Learn the house rules
+PEPE2PEPE / IMD
+Workspace
+/
+Market details
+Connect wallet
+Markets
+/
+Crypto
+/
+#10
+Watch
+Share
+Crypto
+Open
+Robinhood
+Fixed odds · FIFO
+Will $IMD token price be above $10 on the 7th of Oct, 00.01AM UTC ?
+Started by 0x0a5b…ba24
+Bet before 2026-10-05T08:00:00.000Z
+YES
+50%
+NO
+50%
+Display odds as
+Percentage
+
+Offered odds describe the fixed price, not a guarantee of probability. Winning returns include the stake and exclude fees.
+
+IMD AI Oracle
+
+Ask from 2026-10-07T01:01:00.000Z
+
+Market
+Activity
+Rules
+Oracle
+Two sides of the bet.
+
+Watch both sides fill. Only matched money competes. Totals below include all wallets.
+
+Already in the bet
+
+Unused backing stays separate.
+
+20 USDG
+YES
+50%
+fixed odds
+300
+USDG
+room for new bets
+10
+USDG
+matched & in the bet
+
+10 USDG deposited on YES · all wallets
+
+Dotted space is capacity, not money deposited.
+
+NO
+50%
+fixed odds
+300
+USDG
+deposited, still waiting
+10
+USDG
+matched & in the bet
+
+310 USDG deposited on NO · all wallets
+
+Waiting funds can still match until STOP.
+
+Both meters: 3.22% matched. Heights show funding, not the chance of winning.
+
+Matched funds
+Deposited, waiting
+Room for new bets
+View the NO funding queue
+2 / 50 deposits
+Backing NO joins the queue. Betting YES matches available backing.
+How it works
+Market timeline
+Trading opened
+2026-09-29T08:12:46.000Z
+Fund either available side
+STOP trading
+2026-10-05T08:00:00.000Z
+Unused refunds unlock
+Ask Oracle at or after
+2026-10-07T01:01:00.000Z
+Only when at least one bet matched
+
+Open. Times in UTC. Final claims are independent of queue order.
+
+YOUR TAKE
+Make your move.
+Back NO
+50%
+Take YES
+50%
+Matches now
+
+Matches NO backing. Your accepted return stays fixed.
+
+Available to bet YES
+300 USDG
+Your YES stake (USDG)
+i
+USDG
+Minimum 10 USDG
+Match remaining capacity
+Your potential return
+—
+Enter a stake to see the amounts.
+Matched funds stay locked.
+
+Even the platform operator cannot VOID a matched market before Ask Oracle.
+
+Refund timing and operator recovery
+
+Connect and sign in to check your wallet’s funding.
+
+Connect / sign in
+Accept YES bet
+How refunds and winnings work
+Your backing deposits
+
+Only this wallet’s deposits. The funding meters show all wallets. Unused refunds unlock after STOP; matched winnings or VOID refunds unlock after settlement.
+
+Connect your wallet to see your deposits.
+
+Confirmed funding only. Pending transactions appear in your activity.
+Understand the queue
+pepe2pepe.fun
+
+Open markets for a more interesting internet.
+
+Docs
+Agents
+Submit a token
+IMD ↗
+PEPE2PEPE / POWERED BY THE IMD AGENT SWARM.
+Robinhood Chain · IdentityMD · Public creation · Real assets and gas
+market12 Skip to content
+
+YOUR WORKSPACE
+
+Markets
+My dashboard
+Docs
+Create a market
+
+SUPPORTED NETWORKS
+
+Ethereum
+Robinhood
+Same pond. Your next take.
+
+Clear questions.
+A little skin in the game.
+
+Learn the house rules
+PEPE2PEPE / IMD
+Workspace
+/
+Market details
+Connect wallet
+Markets
+/
+Crypto
+/
+#12
+Watch
+Share
+Crypto
+Open
+Robinhood
+Fixed odds · FIFO
+Will $Quotrons (ERC20) be above 6M market cap on the 7th of Oct. 00.01AM UTC ?
+Started by 0x0a5b…ba24
+Bet before 2026-10-03T22:00:00.000Z
+YES
+40%
+NO
+60%
+Display odds as
+Percentage
+
+Offered odds describe the fixed price, not a guarantee of probability. Winning returns include the stake and exclude fees.
+
+IMD AI Oracle
+
+Ask from 2026-10-07T01:01:00.000Z
+
+Market
+Activity
+Rules
+Oracle
+Two sides of the bet.
+
+Watch both sides fill. Only matched money competes. Totals below include all wallets.
+
+Already in the bet
+
+Unused backing stays separate.
+
+0 IMD
+YES
+40%
+fixed odds
+33.333
+IMD
+room for new bets
+0
+IMD
+matched & in the bet
+
+0 IMD deposited on YES · all wallets
+
+Dotted space is capacity, not money deposited.
+
+NO
+60%
+fixed odds
+50
+IMD
+deposited, still waiting
+0
+IMD
+matched & in the bet
+
+50 IMD deposited on NO · all wallets
+
+Waiting funds can still match until STOP.
+
+Both meters: 0% matched. Heights show funding, not the chance of winning.
+
+Matched funds
+Deposited, waiting
+Room for new bets
+View the NO funding queue
+1 / 50 deposits
+Backing NO joins the queue. Betting YES matches available backing.
+How it works
+Market timeline
+Trading opened
+2026-09-29T09:12:58.000Z
+Fund either available side
+STOP trading
+2026-10-03T22:00:00.000Z
+Unused refunds unlock
+Ask Oracle at or after
+2026-10-07T01:01:00.000Z
+Only when at least one bet matched
+
+Open. Times in UTC. Final claims are independent of queue order.
+
+YOUR TAKE
+Make your move.
+Back NO
+60%
+Take YES
+40%
+Matches now
+
+Matches NO backing. Your accepted return stays fixed.
+
+Available to bet YES
+33.333 IMD
+Your YES stake (IMD)
+i
+IMD
+Minimum 1.22 IMD
+Match remaining capacity
+Your potential return
+—
+Enter a stake to see the amounts.
+Matched funds stay locked.
+
+Even the platform operator cannot VOID a matched market before Ask Oracle.
+
+Refund timing and operator recovery
+
+Connect and sign in to check your wallet’s funding.
+
+Connect / sign in
+Accept YES bet
+How refunds and winnings work
+Your backing deposits
+
+Only this wallet’s deposits. The funding meters show all wallets. Unused refunds unlock after STOP; matched winnings or VOID refunds unlock after settlement.
+
+Connect your wallet to see your deposits.
+
+Confirmed funding only. Pending transactions appear in your activity.
+Understand the queue
+pepe2pepe.fun
+
+Open markets for a more interesting internet.
+
+Docs
+Agents
+Submit a token
+IMD ↗
+PEPE2PEPE / POWERED BY THE IMD AGENT SWARM.
+Robinhood Chain · IdentityMD · Public creation · Real assets and gas
+market3 Skip to content
+
+YOUR WORKSPACE
+
+Markets
+My dashboard
+Docs
+Create a market
+
+SUPPORTED NETWORKS
+
+Ethereum
+Robinhood
+Same pond. Your next take.
+
+Clear questions.
+A little skin in the game.
+
+Learn the house rules
+PEPE2PEPE / IMD
+Workspace
+/
+Market details
+Connect wallet
+Markets
+/
+Crypto
+/
+#3
+Watch
+Share
+Crypto
+Open
+Ethereum
+Fixed odds · FIFO
+Will a token launched through the IMD swarm on Ethereum Mainnet or Robinhood Mainnet reach a $2M FDV by October 6th, 2026, 10:00 AM UTC ?
+Started by 0xd5e2…ad34
+Bet before 2026-10-01T10:00:00.000Z
+YES
+50%
+NO
+50%
+Display odds as
+Percentage
+
+Offered odds describe the fixed price, not a guarantee of probability. Winning returns include the stake and exclude fees.
+
+IMD AI Oracle
+
+Ask from 2026-10-06T10:05:00.000Z
+
+Market
+Activity
+Rules
+Oracle
+Two sides of the bet.
+
+Watch both sides fill. Only matched money competes. Totals below include all wallets.
+
+Already in the bet
+
+Unused backing stays separate.
+
+5 IMD
+YES
+50%
+fixed odds
+0
+IMD
+deposited, still waiting
+2.5
+IMD
+matched & in the bet
+
+2.5 IMD deposited on YES · all wallets
+
+Waiting funds can still match until STOP.
+
+NO
+50%
+fixed odds
+0
+IMD
+room for new bets
+2.5
+IMD
+matched & in the bet
+
+2.5 IMD deposited on NO · all wallets
+
+Dotted space is capacity, not money deposited.
+
+Both meters: 100% matched. Heights show funding, not the chance of winning.
+
+Matched funds
+Deposited, waiting
+Room for new bets
+View the YES funding queue
+1 / 50 deposits
+Backing YES joins the queue. Betting NO matches available backing.
+How it works
+Market timeline
+Trading opened
+2026-09-28T13:11:47.000Z
+Fund either available side
+STOP trading
+2026-10-01T10:00:00.000Z
+Unused refunds unlock
+Ask Oracle at or after
+2026-10-06T10:05:00.000Z
+Only when at least one bet matched
+
+Open. Times in UTC. Final claims are independent of queue order.
+
+YOUR TAKE
+Make your move.
+Back YES
+50%
+Take NO
+50%
+Matches now
+
+Matches YES backing. Your accepted return stays fixed.
+
+Available to bet NO
+0 IMD
+Your NO stake (IMD)
+i
+IMD
+Minimum 1.22 IMD
+Your potential return
+—
+Enter a stake to see the amounts.
+Matched funds stay locked.
+
+Even the platform operator cannot VOID a matched market before Ask Oracle.
+
+Refund timing and operator recovery
+
+Connect and sign in to check your wallet’s funding.
+
+Connect / sign in
+Accept NO bet
+How refunds and winnings work
+Your backing deposits
+
+Only this wallet’s deposits. The funding meters show all wallets. Unused refunds unlock after STOP; matched winnings or VOID refunds unlock after settlement.
+
+Connect your wallet to see your deposits.
+
+Confirmed funding only. Pending transactions appear in your activity.
+Understand the queue
+pepe2pepe.fun
+
+Open markets for a more interesting internet.
+
+Docs
+Agents
+Submit a token
+IMD ↗
+PEPE2PEPE / POWERED BY THE IMD AGENT SWARM.
+Ethereum · IdentityMD · Public creation · Real assets and gas

@@ -1,0 +1,10 @@
+{
+  "source_bytes": 7097379,
+  "source_limit_bytes": 8388608,
+  "video_bytes": 3633310,
+  "faststart": true,
+  "frames_decoded": 450,
+  "black_intervals": 0,
+  "audio_peak_dbfs": -2.2,
+  "inspection": "Opening, website, market, Oracle and closing frames inspected after packaging repair."
+}

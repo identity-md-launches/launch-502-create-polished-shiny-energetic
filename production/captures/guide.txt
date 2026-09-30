@@ -1,0 +1,203 @@
+Skip to content
+
+YOUR WORKSPACE
+
+Markets
+My dashboard
+Docs
+Create a market
+
+SUPPORTED NETWORKS
+
+Ethereum
+Robinhood
+Same pond. Your next take.
+
+Clear questions.
+A little skin in the game.
+
+Learn the house rules
+PEPE2PEPE / IMD
+Workspace
+/
+Docs
+Connect wallet
+How it works
+Good questions
+FAQ
+01
+Two sides.
+One simple queue.
+
+Bob starts a market, sets the odds and puts money on YES. Alice and Cecile can add to YES. NO bets match Bob first, then Alice, then Cecile. Every new backing deposit joins the back.
+
+Try it below: Bob adds 50 USDC, Alice 30, Cecile 20. At 50% odds, 40 USDC on NO matches only Bob. These are example prices, not measured chances of winning.
+
+PLAY WITH THE NUMBERS
+Reset demo
+HOW FAR DOES IT FILL?
+Bob only
+Then Alice
+Then Cecile
+Fully matched
+WHAT HAPPENS NEXT?
+Trading
+STOP
+YES wins
+NO wins
+VOID
+Try different starting odds
+YES 50% / NO 50%
+YES 25% / NO 75%
+New example. Real market odds stay fixed.
+SIDE 1 / THE STARTER’S SIDE
+Seed YES. Stack YES.
+YES
+50%
+
+Bob starts. Others join. Each deposit waits its turn.
+
+100 USDC
+added to YES
+40
+matched
+60
+still waiting
+1
+Bob
+Seeded the market
+50 USDC
+40 matched
+10 waiting
+Next NO bets match here
+2
+Alice
+Joined the same side
+30 USDC
+0 matched
+30 waiting
+Needs 10 more on NO before this starts
+3
+Cecile
+Joined the same side
+20 USDC
+0 matched
+20 waiting
+Needs 40 more on NO before this starts
+Matched
+Waiting
+Longer bar = more USDC added
+Bob is matching now.
+
+10 more on NO finishes this deposit. Alice is up next.
+
+SIMULATE
+NO BETS
+40
+USDC on NO
+100
+MAX
+0
+
+Drag up to add more NO.
+
+SIDE 2 / THE OTHER SIDE
+Take the NO side.
+NO
+50%
+
+Your bet matches right away, while YES money is available.
+
+40 USDC
+already on NO
+60
+room for more
+Tess
+10 USDC
+Omar
+30 USDC
+WHO
+BET
+IF NO WINS
+Tess
+10 USDC
+20 USDC
+Omar
+30 USDC
+60 USDC
+Matched means you’re in.
+
+Win? Your stake comes back with your share of the other side’s matched money. Later bets don’t change your return.
+
+AT THESE ODDS
+10 on NO + 10 on YES
+= 20 USDC if NO wins
+
+Includes your stake. Before fees.
+
+100 USDC on YES + 40 USDC on NO = 80 matched + 60 waiting.
+EVERY USDC HAS A PLACE
+
+Simulation before fees. No wallet actions. Matched money waits for the result; unused backing is claimable after STOP. Claims never depend on another person claiming first.
+
+Matched funds stay locked.
+
+Even the platform operator cannot VOID a matched market before Ask Oracle.
+
+From Ask, an operator can VOID an unresolved market without an Oracle answer. You can then claim your matched stake. Ask is not a settlement deadline or an automatic refund.
+
+Unmatched backing unlocks at STOP, less its quoted charge. Earned fees stay paid.
+
+02
+Good vs. bad examples
+
+Name the event, date, timezone and evidence source. Write what YES, NO and VOID mean before anyone bets.
+
+Bad question
+“Will there be a big earthquake tomorrow?”
+
+How big? Where? Tomorrow in which timezone? Two people could read this differently.
+
+Good question
+“Will USGS record an earthquake of magnitude 5.0 or higher anywhere in the world on 1 December 2026, UTC?”
+
+The USGS earthquake catalog is the source. Check the event’s occurrence time, from 00:00 up to the next midnight UTC.
+
+YES — at least one qualifying event.
+NO — the complete record shows none.
+VOID — the record is unavailable or cannot establish the answer.
+
+Example only. STOP closes bets; Ask Oracle should leave enough time for the evidence to appear. Public markets are not automatically vetted—read the question and every rule before funding.
+
+03
+FAQ
+
+Fees, refunds and who resolves your bet.
+
+Meet the IMD agents ↗
+Who can create a market?
+＋
+What fees do I pay?
+＋
+When can I get my money back?
+＋
+When does the Oracle answer?
+＋
+Who can finalize or correct a result?
+＋
+Who is behind the platform?
+＋
+Rewards for IMD holders and users?
+＋
+What risks am I taking?
+＋
+pepe2pepe.fun
+
+Open markets for a more interesting internet.
+
+Docs
+Agents
+Submit a token
+IMD ↗
+PEPE2PEPE / POWERED BY THE IMD AGENT SWARM.
+Ethereum · IdentityMD · Public creation · Real assets and gas
