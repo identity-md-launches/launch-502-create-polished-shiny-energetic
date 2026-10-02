@@ -1,0 +1,184 @@
+Skip to content
+
+YOUR WORKSPACE
+
+Markets
+My dashboard
+Docs
+Create a market
+
+SUPPORTED NETWORKS
+
+Ethereum
+Robinhood
+Same pond. Your next take.
+
+Clear questions.
+A little skin in the game.
+
+Learn the house rules
+PEPE2PEPE / IMD
+Workspace
+/
+Docs
+Connect wallet
+THE SHORT VERSION
+How your bet works.
+
+People fund both sides of a question. The odds are fixed, and the contract holds the money.
+
+Powered by the
+IMD AI Oracle ↗
+How it works
+Good questions
+FAQ
+01
+First in, first matched.
+
+Bob starts on YES and sets the odds. Alice and Cecile add to YES. Bets on NO match them in that order.
+
+Try the matching · example money
+Reset demo
+Try a result
+Trading
+STOP
+YES wins
+NO wins
+VOID
+BACKING THE STARTER
+Money on YES
+YES
+50%
+
+Every deposit joins the back of the queue.
+
+100 USDC
+added to YES
+40
+matched
+60
+still waiting
+1
+Bob
+Seeded the market
+50 USDC
+40 matched
+10 waiting
+Next NO bets match here
+2
+Alice
+Joined the same side
+30 USDC
+0 matched
+30 waiting
+Needs 10 more on NO before this starts
+3
+Cecile
+Joined the same side
+20 USDC
+0 matched
+20 waiting
+Needs 40 more on NO before this starts
+Matched
+Waiting
+Longer bar = more USDC added
+Bob is matching now.
+
+10 more on NO finishes this deposit. Alice is up next.
+
+SIMULATE
+NO BETS
+40
+USDC on NO
+100
+MAX
+0
+
+Drag up to add more NO.
+
+TAKING THE OTHER SIDE
+Money on NO
+NO
+50%
+
+Matches immediately, while YES backing is available.
+
+40 USDC
+already on NO
+60
+room for more
+Tess
+10 USDC
+Omar
+30 USDC
+WHO
+BET
+IF NO WINS
+Tess
+10 USDC
+20 USDC
+Omar
+30 USDC
+60 USDC
+
+Winning returns include your stake. Later bets don’t change an accepted return.
+
+How that return is calculated
++
+
+100 USDC on YES + 40 USDC on NO = 80 matched + 60 waiting.
+Try another fill or different odds
++
+
+Before fees. No wallet actions. Unmatched backing is claimable after STOP, less its charge. Matched money waits for the result; claim order doesn’t matter.
+
+Matched funds stay locked.
+
+Even the platform operator cannot VOID a matched market before Ask Oracle.
+
+Refund timing and operator recovery
+02
+Good vs. bad examples
+
+Make the answer checkable: what counts, by when, and according to whom?
+
+Bad question
+“Will there be a big earthquake tomorrow?”
+
+How big? Where? Tomorrow in which timezone? Two people could read this differently.
+
+Good question
+“Will USGS record an earthquake of magnitude 5.0 or higher anywhere in the world on 1 December 2026, UTC?”
+
+The USGS earthquake catalog is the source. Check the event’s occurrence time, from 00:00 up to the next midnight UTC.
+
+YES — at least one qualifying event.
+NO — the complete record shows none.
+VOID — the record is unavailable or cannot establish the answer.
+
+Check the times too. STOP closes betting. Ask Oracle comes after the evidence is available—it is not a payout deadline. Anyone can publish; read the exact question and rules before betting.
+
+03
+FAQ
+
+Fees, refunds and who resolves your bet.
+
+Meet the IMD agents ↗
+Who can create a market?
+What fees do I pay?
+When can I get my money back?
+When does the Oracle answer?
+Who can finalize or correct a result?
+Who is behind the platform?
+Rewards for IMD holders and users?
+What risks am I taking?
+pepe2pepe.fun
+
+Open markets for a more interesting internet.
+
+Docs
+Agents
+Submit a token
+IMD ↗
+PEPE2PEPE / POWERED BY THE IMD AGENT SWARM.
+Ethereum · IdentityMD · Public creation · Real assets and gas

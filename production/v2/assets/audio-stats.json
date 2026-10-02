@@ -1,0 +1,11 @@
+{
+  "duration_seconds": 20,
+  "sample_rate": 48000,
+  "channels": 2,
+  "tempo_bpm": 96,
+  "voice_offset_seconds": 6.2,
+  "voice_duration_seconds": 12.355916666666667,
+  "mix_sample_peak_dbfs": -2.7751032940368834,
+  "mix_rms_dbfs": -22.024703449017057,
+  "music_sample_peak_dbfs": -20.05460204367872
+}

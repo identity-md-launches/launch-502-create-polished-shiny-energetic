@@ -1,0 +1,89 @@
+{
+  "browser": "Installed Chromium 1208 / Playwright",
+  "device_scale_factor": 2,
+  "pages": [
+    {
+      "name": "home",
+      "url": "https://pepe2pepe.fun/",
+      "width": 2880,
+      "height": 4824,
+      "captured_at_utc": "2026-10-02T20:26:05.817014+00:00",
+      "interaction": "No UI interaction"
+    },
+    {
+      "name": "home-crypto-900",
+      "url": "https://pepe2pepe.fun/",
+      "width": 1800,
+      "height": 3648,
+      "captured_at_utc": "2026-10-02T20:29:12.257621+00:00",
+      "interaction": "Clicked real Crypto topic filter"
+    },
+    {
+      "name": "market10",
+      "url": "https://pepe2pepe.fun/robinhood/market/10",
+      "width": 2880,
+      "height": 2010,
+      "captured_at_utc": "2026-10-02T20:26:22.025328+00:00",
+      "interaction": "No UI interaction"
+    },
+    {
+      "name": "market12",
+      "url": "https://pepe2pepe.fun/robinhood/market/12",
+      "width": 2880,
+      "height": 2010,
+      "captured_at_utc": "2026-10-02T20:26:34.672572+00:00",
+      "interaction": "No UI interaction"
+    },
+    {
+      "name": "market3",
+      "url": "https://pepe2pepe.fun/market/3",
+      "width": 2880,
+      "height": 2698,
+      "captured_at_utc": "2026-10-02T20:26:47.548821+00:00",
+      "interaction": "No UI interaction"
+    },
+    {
+      "name": "guide",
+      "url": "https://pepe2pepe.fun/guide",
+      "width": 2880,
+      "height": 6454,
+      "captured_at_utc": "2026-10-02T20:27:00.976081+00:00",
+      "interaction": "No UI interaction"
+    },
+    {
+      "name": "guide-oracle",
+      "url": "https://pepe2pepe.fun/guide",
+      "width": 2880,
+      "height": 8210,
+      "captured_at_utc": "2026-10-02T20:28:10.052418+00:00",
+      "interaction": "Opened real FAQ summaries about creation, Oracle timing, operator settlement review"
+    }
+  ],
+  "source_packaging": {
+    "home-crypto-900": {
+      "file": "home-crypto-900.webp",
+      "original_crop_xywh": [
+        0,
+        1700,
+        1800,
+        1120
+      ],
+      "lossless": true,
+      "decoded_rgb_verified_equal": true
+    },
+    "market10": {
+      "file": "market10.webp",
+      "original_crop_xywh": null,
+      "lossless": true,
+      "decoded_rgb_verified_equal": true
+    },
+    "research_only": [
+      "home",
+      "market12",
+      "market3",
+      "guide",
+      "guide-oracle"
+    ],
+    "research_preserved_as": "Raw text, URLs, timestamps and acquisition script; unused research raster files omitted."
+  }
+}

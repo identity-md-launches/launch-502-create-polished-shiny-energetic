@@ -1,0 +1,158 @@
+{
+  "purpose": "Repair the 8 MiB source-bundle failure while preserving V2 delivery.",
+  "source_limit_bytes": 8388608,
+  "source_measurement": "Every file in production/v2, including this report; reused original V1 source assets are unchanged.",
+  "source_bytes_before_repair": 38733702,
+  "source_bytes_after_repair": 8047411,
+  "source_files": {
+    "production/v2/assets/audio-mix.flac": 2025327,
+    "production/v2/assets/audio-music.flac": 1352851,
+    "production/v2/assets/audio-stats.json": 302,
+    "production/v2/assets/audio-take-chris.mp3": 267747,
+    "production/v2/assets/audio-take-roger.mp3": 296587,
+    "production/v2/assets/hero-environment-provenance.md": 2874,
+    "production/v2/assets/hero-environment.webp": 1142312,
+    "production/v2/audio-notes.md": 5157,
+    "production/v2/audio.py": 10405,
+    "production/v2/bootstrap.py": 1676,
+    "production/v2/browser-playback.json": 186,
+    "production/v2/capture.py": 4349,
+    "production/v2/captures/guide-oracle.txt": 4842,
+    "production/v2/captures/guide.txt": 3354,
+    "production/v2/captures/home-crypto-900-dom.json": 704,
+    "production/v2/captures/home-crypto-900.txt": 1903,
+    "production/v2/captures/home-crypto-900.webp": 65494,
+    "production/v2/captures/home.txt": 2537,
+    "production/v2/captures/market10.txt": 1119,
+    "production/v2/captures/market10.webp": 364542,
+    "production/v2/captures/market12.txt": 1140,
+    "production/v2/captures/market3.txt": 1502,
+    "production/v2/captures/metadata.json": 2447,
+    "production/v2/product-sources.md": 4225,
+    "production/v2/render.py": 8243,
+    "production/v2/review.html": 778,
+    "production/v2/vendor/README.md": 1652,
+    "production/v2/vendor/manifest.json": 20601,
+    "production/v2/vendor/pillow-12.3.0-cp314-linux-x86_64-runtime.tar.xz": 2436476,
+    "production/v2/vendor/repack.py": 3652,
+    "production/v2/verification.json": 2523,
+    "production/v2/verify.py": 3953
+  },
+  "source_budget_passed": true,
+  "lossless_source_checks": [
+    {
+      "original": "production/v2/assets/hero-environment.png",
+      "delivered": "production/v2/assets/hero-environment.webp",
+      "transform": "none",
+      "rgb_pixels_identical": true,
+      "rgb_sha256": "64637f58f5f2ad8aecd3a7ecd8df11a87f00ee2b71ce92e0d0ad04e53f184f66"
+    },
+    {
+      "original": "production/v2/captures/home-crypto-900.png",
+      "delivered": "production/v2/captures/home-crypto-900.webp",
+      "transform": "crop=1800:1120:0:1700",
+      "rgb_pixels_identical": true,
+      "rgb_sha256": "e821d50412d7d1862a1c117a358337de692cda19d45b5edce73b2cb8168e8c45"
+    },
+    {
+      "original": "production/v2/captures/market10.png",
+      "delivered": "production/v2/captures/market10.webp",
+      "transform": "none",
+      "rgb_pixels_identical": true,
+      "rgb_sha256": "e7984e2ac894489d061bdd3971c8c534d51cd6eebe910b64219c7ad84168177c"
+    }
+  ],
+  "runtime_check": {
+    "pillow": "12.3.0",
+    "archive": {
+      "file": "pillow-12.3.0-cp314-linux-x86_64-runtime.tar.xz",
+      "bytes": 2436476,
+      "sha256": "58e77e832cbb596dafcaf8314d1e9e6205dd5f229fbfc089c9279799038cb5a9"
+    },
+    "manifest_files_verified": 126,
+    "site_packages_disabled": true,
+    "variable_fonts": true,
+    "png_rgba_exact": true,
+    "webp_rgba_exact": true,
+    "jpeg_roundtrip": true,
+    "default_font": true,
+    "all_linked_libraries_found": true,
+    "representative_full_render_frames": [
+      0,
+      120,
+      200,
+      270,
+      360,
+      420,
+      509,
+      510,
+      525,
+      599
+    ]
+  },
+  "offline_full_render": {
+    "command": "python3 -B -S production/v2/render.py --output test/scratch/bundle-repair/offline-video.mp4 --hero-output test/scratch/bundle-repair/offline-hero.png",
+    "frames": 600,
+    "video_bytes_identical_to_delivery": true,
+    "hero_bytes_identical_to_delivery": true,
+    "network_required": false,
+    "site_packages_disabled": true
+  },
+  "audio_score_check": {
+    "command": "python production/v2/audio.py --output-dir test/scratch/audio-stdlib",
+    "duration_seconds": 20,
+    "channels": 2,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "integrated_lufs": -18.54,
+    "true_peak_dbtp": -2.63,
+    "saved_original_masters_unchanged": true,
+    "regenerated_noise_sample_identical": false
+  },
+  "delivery": {
+    "duration_seconds": 20,
+    "frames": 600,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "faststart": true,
+    "video_bytes": 4121931,
+    "required_outputs_untracked": true
+  },
+  "preserved_files": {
+    "artifacts/video-v2.mp4": {
+      "bytes": 4121931,
+      "sha256": "fcafb2d0238e476d6f8a81e10c9cfed75e414c4475a53b5a602b7b89deaa097a"
+    },
+    "artifacts/video.mp4": {
+      "bytes": 3633310,
+      "sha256": "df5eef512b4ab68f16b53eb4640c03c2aa7dbfe13d66fbce0dea31ed6095dc0f"
+    },
+    "artifacts/hero.png": {
+      "bytes": 1935005,
+      "sha256": "7d3417da24287f51179604c8781c27f087ec19238a6fdb6673072f9403d5257c"
+    },
+    "production/v2/assets/audio-mix.flac": {
+      "bytes": 2025327,
+      "sha256": "89d10c18b07dd5dacc53e9936840ce34e87af3858512236b69b2ba0062162735"
+    },
+    "production/v2/assets/audio-music.flac": {
+      "bytes": 1352851,
+      "sha256": "3ba180a7f28095f6bd30f971bbd3193e1d454bc92b6b8acd993c2c8ee74d2640"
+    }
+  },
+  "visual_review": {
+    "principal_compositions": true,
+    "all_cut_boundaries": true,
+    "oracle_to_hero_all_transition_frames": true,
+    "cta_complete_hold_seconds": 2.5,
+    "continuous_normal_speed_human_viewing": false,
+    "auditory_review": false
+  },
+  "limitations": "No auditory perception or continuous audiovisual viewing available. Frames inspected; audio measured, not listened to. Compact runtime targets CPython 3.14/Linux x86_64. New score code preserves arrangement but seeded noise differs from saved master."
+}
